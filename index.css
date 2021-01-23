@@ -1,0 +1,20 @@
+.teste{
+    width: 1200px;
+    margin: 0 auto;
+}
+#logo{
+    width: 100px;
+    height: 65px;
+}
+.teste-nav{
+    background-color: rgb(255, 86, 86);
+}
+.container-fluid{
+    background-color: azure;
+}
+body{
+    background-color: rgb(179, 179, 179);
+}
+.container-fluid{
+    background-color:rgb(179, 179, 179) ;
+}
